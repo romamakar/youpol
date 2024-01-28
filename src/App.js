@@ -1,9 +1,15 @@
 import logo from './logo.svg';
-import './App.css';
+//import './App.css';
+import Nav from './components/Nav.js'
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Nav/>
+      <p>Hello</p>
+      
+
+      {/*
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,6 +24,7 @@ function App() {
           Learn React
         </a>
       </header>
+      */}
     </div>
   );
 }
