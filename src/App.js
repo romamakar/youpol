@@ -1,30 +1,21 @@
-import logo from './logo.svg';
-//import './App.css';
+import { Route, Routes } from 'react-router-dom';
+import './App.css';
 import Nav from './components/Nav.js'
+import MainMenu from './components/MainMenu.js';
+import YouPolShorts from './components/YouPolShorts/YouPolShorts.js';
+import Subscriptions from './components/Subscriptions/Subscriptoins.js';
+import YouPolMusic from './components/YouPolMusic/YouPolMusic.js';
+import Home from './components/Home.js';
 
 function App() {
   return (
     <div>
-      <Nav/>
-      <p>Hello</p>
-      
-
-      {/*
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-      */}
+      <Routes>
+       <Route path="/" element={<Home />}/> 
+       <Route path="/youpol_shorts" element={<YouPolShorts />}/>
+       <Route path="/subscriptions" element={<Subscriptions />}/>
+       <Route path="/youyol_music" element={<YouPolMusic/>}/>
+      </Routes>
     </div>
   );
 }
