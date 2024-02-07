@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import logo from '../images/youpol_logo_2017.svg';
 import magnifier from '../images/search_magnifier.svg';
 import theme from '../images/theme_button.png';
