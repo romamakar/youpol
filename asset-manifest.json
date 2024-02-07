@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.64b971be.css",
-    "main.js": "/static/js/main.10640547.js",
-    "static/js/787.2090ab6b.chunk.js": "/static/js/787.2090ab6b.chunk.js",
-    "static/media/youpol_logo_2017.svg": "/static/media/youpol_logo_2017.cc9966a4cb2a7a33fa308b945215d51d.svg",
-    "static/media/theme_button.png": "/static/media/theme_button.c7168e9ca5656dd4d9e3.png",
-    "static/media/shorts.svg": "/static/media/shorts.84c97bb1d25632ae901a916d1282e896.svg",
-    "index.html": "/index.html",
-    "static/media/search_magnifier.svg": "/static/media/search_magnifier.1f2caa1d9a3e2b4b90674be99270762f.svg",
-    "static/media/youpol_music.svg": "/static/media/youpol_music.acb58a3c5e38e304330b7b708f361fdd.svg",
-    "static/media/home.svg": "/static/media/home.3dd7a387c9b42014c6daab480830d84e.svg",
-    "static/media/subscriptions.svg": "/static/media/subscriptions.10d8d9240d03a923a617cd9ffafec011.svg",
-    "main.64b971be.css.map": "/static/css/main.64b971be.css.map",
-    "main.10640547.js.map": "/static/js/main.10640547.js.map",
-    "787.2090ab6b.chunk.js.map": "/static/js/787.2090ab6b.chunk.js.map"
+    "main.css": "/youpol/static/css/main.64b971be.css",
+    "main.js": "/youpol/static/js/main.ba1878c3.js",
+    "static/js/787.2090ab6b.chunk.js": "/youpol/static/js/787.2090ab6b.chunk.js",
+    "static/media/youpol_logo_2017.svg": "/youpol/static/media/youpol_logo_2017.21bbc4a6e0b26c4aae73f45018d2df04.svg",
+    "static/media/theme_button.png": "/youpol/static/media/theme_button.c7168e9ca5656dd4d9e3.png",
+    "static/media/shorts.svg": "/youpol/static/media/shorts.84c97bb1d25632ae901a916d1282e896.svg",
+    "index.html": "/youpol/index.html",
+    "static/media/search_magnifier.svg": "/youpol/static/media/search_magnifier.1f2caa1d9a3e2b4b90674be99270762f.svg",
+    "static/media/youpol_music.svg": "/youpol/static/media/youpol_music.acb58a3c5e38e304330b7b708f361fdd.svg",
+    "static/media/home.svg": "/youpol/static/media/home.3dd7a387c9b42014c6daab480830d84e.svg",
+    "static/media/subscriptions.svg": "/youpol/static/media/subscriptions.10d8d9240d03a923a617cd9ffafec011.svg",
+    "main.64b971be.css.map": "/youpol/static/css/main.64b971be.css.map",
+    "main.ba1878c3.js.map": "/youpol/static/js/main.ba1878c3.js.map",
+    "787.2090ab6b.chunk.js.map": "/youpol/static/js/787.2090ab6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64b971be.css",
-    "static/js/main.10640547.js"
+    "static/js/main.ba1878c3.js"
   ]
 }
