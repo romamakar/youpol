@@ -1,0 +1,15 @@
+.commonButton {
+    margin: 5px;
+}
+
+.commonButton {
+    border: 0;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.commonButton:focus {
+    background-color: black;
+    color: white;
+}

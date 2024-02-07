@@ -8,7 +8,7 @@ const YouPolShorts = () => {
         <Nav />
         <MainMenu />
 
-        <h1>YouPolShorts</h1>
+        <h1>YouPol Shorts</h1>
         
 
         </>

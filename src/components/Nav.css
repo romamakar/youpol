@@ -1,0 +1,44 @@
+.navi {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.mainLogo {
+    height: 50px;
+    margin: 10px;
+}
+
+.searchInput {
+    width: 390px;
+    height: 40px;
+    border-radius: 40px 0 0 40px;
+}
+
+.searchButton {
+    width: 64px;
+    height: 46px;
+    border-radius: 0 40px 40px 0;
+}
+
+.exp {
+    display: flex;
+    margin: 10px;
+}
+
+.themeButton {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+   
