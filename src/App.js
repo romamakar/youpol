@@ -6,16 +6,16 @@ import YouPolMusic from './components/YouPolMusic/YouPolMusic.js';
 import Home from './components/Home.js';
 
 function App() {
-  return (
-    <div>
-      <Routes>
-       <Route path="/" element={<Home />}/> 
-       <Route path="/youpol_shorts" element={<YouPolShorts />}/>
-       <Route path="/subscriptions" element={<Subscriptions />}/>
-       <Route path="/youyol_music" element={<YouPolMusic/>}/>
-      </Routes>
-    </div>
-  );
+    return (
+        <div>
+            <Routes>
+                <Route path="/youpol" element={<Home />} />
+                <Route path="/youpol/youpol_shorts" element={<YouPolShorts />} />
+                <Route path="/youpol/subscriptions" element={<Subscriptions />} />
+                <Route path="/youpol/youyol_music" element={<YouPolMusic />} />
+            </Routes>
+        </div>
+    );
 }
 
 export default App;
